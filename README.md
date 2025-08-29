@@ -81,7 +81,7 @@ personSmall.moveVertical(-20);
 ``` java
 Sun.moveHorizontal(100);
 ```
-![Drawing 02] (./img/Drawing2.png)
+![Drawing 02](./img/Drawing2.png)
 
 
 
