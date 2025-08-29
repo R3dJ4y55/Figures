@@ -21,4 +21,11 @@ public void moveDown()
 
 **Q: How can you use *move horizontal* to move the circle 70 pixels to the left?**  
 
-**A:** By invoking *movehorizontal(-70)*.
+**A:** By calling *movehorizontal(-70)*.  
+
+**Q: What happens when you specify a color that is not known?**  
+**A:** The figure becomes black.  
+
+**Q: What happens when you call *ChangeColor()* without the quotes?**  
+**A:** It returns the following error:
+<p style="color : red"> Error: cannot find symbol</p>
